@@ -4,7 +4,10 @@ The word <!-- vale off -->TODO<!-- vale on --> is listed in the reject.txt file,
 
 *Note*: <!-- vale off -->TODO<!-- vale on -->
 
+_Note_: <!-- vale off -->TODO<!-- vale on -->
 
 **Note**: <!-- vale off -->TODO<!-- vale on -->
+
+__Note__: <!-- vale off -->TODO<!-- vale on -->
 
 Note: This works as expected <!-- vale off -->TODO<!-- vale on -->
